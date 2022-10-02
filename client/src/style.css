@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 80px;
+}
+
+#top1 {
+    max-width: 700px;
+    height: 50px;
+    max-block-size: 50px;
+    margin: auto;
+    
+}
+
+#top2{
+    width: 300px;
+    -webkit-box-reflect: below 0 linear-gradient(
+       /* rgba(0,0,0,0,5),
+        rgba(0,0,0,1)*/  
+    ); 
+}
+
+
+
+
+/*div { 
+    background-color: lightgrey;
+  width: 300px;
+  padding: 50px;
+  margin: 20px; 
+  }*/
